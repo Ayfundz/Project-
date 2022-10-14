@@ -1,0 +1,56 @@
+body{
+    /* background: white; */
+    /* background-image: url(/h.img/r2vxVIlu.png); 
+    background-color:#323232 ; background-size: cover; background-repeat: no-repeat; background-position: 20%; */
+    background: linear-gradient(to bottom left, white 1%, #323232 30%);
+    min-height: 100vh;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem;
+    }
+
+p, h3, ul, li, details, table{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+a{color: rgb(0, 0, 0)}
+a:hover{color: white;} :link{color: rgb(30, 30, 30);} 
+hr:hover{color: white;} 
+h2{color: wheat;}
+li a{color: black;}
+p em{color: black;}
+ol:first-child{color: blue;}
+input{color: white;}
+input{background-color: black;}
+label{color: white;}
+h1:hover{text-shadow: black 3px 3px;}
+ul{
+    list-style-type: none;
+}
+.bl, h3, h2{text-shadow: black 3px 3px;}
+
+.mayo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.mayo img{
+    width: 100%;
+    height: fit-content;
+}
+
+figcaption{color: white;}
+fieldset{width: 20%; border-color: gray;}
+legend{color: white;}
+
+th, td, caption {
+    border: 1px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
