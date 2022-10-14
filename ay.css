@@ -16,7 +16,7 @@ p, h3, ul, li, details, table{
 h1{
     color: white;
 }
-a{color: wheat;}
+a{color: RGB(0, 0, 0;}
 a:hover{color: white;} :link{color: rgb(30, 30, 30);} 
 hr:hover{color: white;} 
 h2{color: wheat;}
