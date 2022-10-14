@@ -27,9 +27,6 @@ input{color: white;}
 input{background-color: black;}
 label{color: white;}
 h1:hover{text-shadow: black 3px 3px;}
-ul{
-    list-style-type: none;
-}
 .bl, h3, h2{text-shadow: black 3px 3px;}
 
 .mayo{
