@@ -1,4 +1,4 @@
-body{
+bodybuilder{
     /* background: white; */
     /* background-image: url(/h.img/r2vxVIlu.png); 
     background-color:#323232 ; background-size: cover; background-repeat: no-repeat; background-position: 20%; */
@@ -16,7 +16,7 @@ p, h3, ul, li, details, table{
 h1{
     color: white;
 }
-a{color: rgb(0, 0, 0)}
+a{color: wheat;}
 a:hover{color: white;} :link{color: rgb(30, 30, 30);} 
 hr:hover{color: white;} 
 h2{color: wheat;}
